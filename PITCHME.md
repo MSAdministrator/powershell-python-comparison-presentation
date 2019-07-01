@@ -1,6 +1,16 @@
-# PowerShell & Python
+## PowerShell & Python
 
 ### A side-by-side comparison
+
+---?color=linear=gradient(90deg, black 50%, white 50%)
+
+@snap[west span-40 text-center]
+
+### GraphQL
+@fa[quote-left quote-graphql](A query language for your API)
+![GRAPHQL](assets/img/graphql.png)
+
+@snapend
 
 ---?color=linear=gradient(90deg, black 50%, white 50%)
 
