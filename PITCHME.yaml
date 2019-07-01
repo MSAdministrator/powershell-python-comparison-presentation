@@ -30,7 +30,7 @@ layout : center
 # Footnote Setting
 # Doc: https://gitpitch.com/docs/settings/footnote
 #
-footnote : "GitPitch - The Fastest Way From Idea To Presentation"
+#footnote : "GitPitch - The Fastest Way From Idea To Presentation"
 
 #
 # Published Setting
@@ -42,6 +42,6 @@ published : true
 # Twitter Card Settings [Pro Only]
 # Doc: https://gitpitch.com/docs/settings/twitter-card
 #
-title : "GitPitch In 60 Seconds"
-description : "A short tutorial introducing the power and simplicity of GitPitch, the markdown presentation service on Git."
+title : "PowerShell & Python: A side-by-side Comparison"
+description : "A side-by-side comparison of both PowerShell (Windows & Core) and Python 2.* & 3.*"
 thumbnail : https://gitpitch.com/gpimg/tutorial-thumb.png
