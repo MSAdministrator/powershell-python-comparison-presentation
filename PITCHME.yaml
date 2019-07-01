@@ -5,13 +5,13 @@
 # Theme Setting
 # Doc: https://gitpitch.com/docs/settings/theme
 #
-theme : template
+#theme : template
 
 #
 # Theme-Override Setting
 # Doc: https://gitpitch.com/docs/settings/custom-theme
 #
-theme-override: assets/css/PITCHME.css
+#theme-override: assets/css/PITCHME.css
 
 #
 # Logo Setting
@@ -24,7 +24,7 @@ logo-position : top-left
 # Layout Setting
 # Doc: https://gitpitch.com/docs/settings/layout
 #
-layout : center
+#layout : center
 
 #
 # Footnote Setting
