@@ -6,7 +6,7 @@
 
 @snap[west span-50]
 
-# PowerShell
+### PowerShell
 
 @ol[span-50 text-08]
 * Used since 2014
@@ -16,7 +16,7 @@
 * Continued with automating and releasing around 40+ Modules
 @olend
 
-## Highlights
+#### Highlights
 
 @ol[span-50 text-08]
 * PSRegistry (WIN_API wrapper for accessing multiple HKCU hives)
@@ -39,7 +39,7 @@
 
 @snap[east span-50]
 
-# Python
+### Python
 
 @ol[span-50 text-08]
 * Tinkered with Python since 2016
@@ -47,7 +47,7 @@
 * Released several Python packages so far this year, with way more to come!
 @olend
 
-## Highlights
+### Highlights
 
 @ol[span-50 text-08]
 * **py-ews** - A cross platform Python package to access on-premises Exchange (2010 - 2019) and Office 365 Exchange Web Services
