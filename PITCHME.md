@@ -4,8 +4,6 @@
 
 ---?color=linear=gradient(90deg, black 50%, white 50%)
 
-## Add Some Slide Candy
-
 @snap[west span-50]
 
 # PowerShell
@@ -63,3 +61,4 @@
 
 @snapend
 
+---
