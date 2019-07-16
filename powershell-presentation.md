@@ -92,7 +92,7 @@
 * PowerShell **2.0** - Windows 7 & Server 2008 R2
   * Remoting, Background Jobs, Advanced Functions, Modules, Debugging, ISE, etc.
 * PowerShell **3.0** - Windows 8 & Server 2012
-  * Scheduled Jobs, Delegation Support, Updateable Help, and TONS of new CmdLets
+  * Scheduled Jobs, Delegation Support, Updateable Help, and TONS of new Cmdlets
 * PowerShell **4.0** - Windows 8.1 Server 2012 R2
   * Desired State Configuration, Ehanced Debugging, improvided filtering and interation over objects
 * PowerShell **5.0** - 2016 - Windows 10
@@ -102,7 +102,7 @@
 * PowerShell Core **6.0** - 2016
   * Microsoft open-sources PowerShell, Supports Windows, macOS, & Linux
 * PowerShell Core **6.1** - Windows 10 & Server 2019
-  * Compatibility with 1900+ existing CmdLets in Windows 10 and Windows Server 2019
+  * Compatibility with 1900+ existing Cmdlets in Windows 10 and Windows Server 2019
   * Supports latest version of Windows, macOS, and Linux
 * PowerShell Core **6.2**
   * Performance improvements, bug fixes, and smaller changes
@@ -273,18 +273,18 @@
 
 # PowerShell Terms
 
-## CmdLet (Command-Let)
-    Binary based CmdLet's
+## Cmdlet (Command-Let)
+    Binary based Cmdlet's
 
 ## Modules
-    Script based CmdLet's
-    Binary based CmdLet's
+    Script based Cmdlet's
+    Binary based Cmdlet's
 
 ## Classes
     PowerShell v5+ implemented Classes
 
 ## Advanced Functions
-    Script based CmdLet's
+    Script based Cmdlet's
 
 - Static Parameters
 - Dynamic Parameters
@@ -312,7 +312,7 @@
 ## **Everything** is an object (even text)!
 - Objects (for simplicity) have both properties and methods
 
-## Built-In CmdLet's and adv. functions should follow the {Verb}-{Noun} syntax but it is not required
+## Built-In Cmdlet's and adv. functions should follow the {Verb}-{Noun} syntax but it is not required
 
     # PowerShell has an approved verb list
     Get-Verb
@@ -355,8 +355,8 @@
 
 ## Searching
 
-Adding `powershell` or `cmdlet` to any google search will result in better results
-> Microsoft actually went with CmdLet because it was unique and could be searched easily
+Adding `powershell` or `Cmdlet` to any google search will result in better results
+> Microsoft actually went with Cmdlet because it was unique and could be searched easily
 
 ## Resources I use
 
@@ -459,7 +459,7 @@ Adding `powershell` or `cmdlet` to any google search will result in better resul
 > Use PascalCase for all public facing code
 
  - Modules
- - Functions & CmdLet's
+ - Functions & Cmdlet's
  - Parameters
  - Global Variables
  - Constants

@@ -1,17 +1,17 @@
 # PowerShell Terms
 
-## CmdLet (Command-Let)
-    Binary based CmdLet's
+## Cmdlet (Command-Let)
+    Binary based Cmdlet's
 
 ## Modules
-    Script based CmdLet's
-    Binary based CmdLet's
+    Script based Cmdlet's
+    Binary based Cmdlet's
 
 ## Classes
     PowerShell v5+ implemented Classes
 
 ## Advanced Functions
-    Script based CmdLet's
+    Script based Cmdlet's
 
 - Static Parameters
 - Dynamic Parameters

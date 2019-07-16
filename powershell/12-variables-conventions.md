@@ -12,7 +12,7 @@
 > Use PascalCase for all public facing code
 
  - Modules
- - Functions & CmdLet's
+ - Functions & Cmdlet's
  - Parameters
  - Global Variables
  - Constants

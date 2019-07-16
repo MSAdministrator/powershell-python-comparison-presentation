@@ -11,8 +11,8 @@
 
 ## Searching
 
-Adding `powershell` or `cmdlet` to any google search will result in better results
-> Microsoft actually went with CmdLet because it was unique and could be searched easily
+Adding `powershell` or `Cmdlet` to any google search will result in better results
+> Microsoft actually went with Cmdlet because it was unique and could be searched easily
 
 ## Resources I use
 
