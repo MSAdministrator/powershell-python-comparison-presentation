@@ -7,7 +7,7 @@ This repository contains the markdown files for my presentation at BSides Spring
 - [PowerShell Markdown Master File](powershell-presentation.md)
 - [Python Markdown Master Files](python-presentation.md)
 
-## Individual Markdwon Files
+## Individual Markdown Files
 
 You can find individual markdown files in the following folders:
 
